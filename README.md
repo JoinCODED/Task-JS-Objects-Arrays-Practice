@@ -1,6 +1,8 @@
 # Task-JS-Objects-Arrays-Practice
 
-Define the students array, where each object represents a student and contains the properties name and grades. Assign appropriate values to these properties. For example:
+1. Add an index.js file
+
+1. Define the students array, where each object represents a student and contains the properties name and grades. Assign appropriate values to these properties. For example:
 ```
 const students = [
   { name: 'John', grades: [{ numeric: 85, letter: 'B' }, { numeric: 90, letter: 'A-' }, { numeric: 92, letter: 'A' }] },
